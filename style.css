@@ -1,0 +1,168 @@
+/* index.html */
+.heading{
+    text-align: center;
+    background-color: rgb(155, 18, 235); 
+    color: white;
+}
+
+.khajaset{
+    float: left;
+    margin-right: 10px;
+}
+
+.juju{
+    float: left;
+    margin-right: 10px; 
+}
+.bara{
+    float: left;
+}
+
+.foods {
+    text-align: center;
+    margin-left: 10%
+}
+
+
+.foods:after {
+    content: ''; 
+    display: block; 
+    clear: both; 
+}
+
+p{
+    text-align: none;
+}
+.p1 {
+    width: 400px;
+    float: left;
+    margin-left: 150px;
+}
+
+.p2{
+    width: 400px;
+    float: left;
+    margin-left: 30px;
+}
+
+.p3{
+    width: 400px;
+    float: left;
+    margin-left: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.momo img {
+    margin-left: 10%;
+}
+
+
+.name-khajaset:hover{
+    color: red
+}
+
+.name-juju:hover{
+    color: rgb(17, 16, 17);
+}
+
+.name-bara:hover{
+    color: orangered;
+}
+
+
+.footer{
+    text-align: center;
+    background-color: rgb(96, 10, 235); 
+    color: white;
+}
+
+
+/* khaja set, juju, bara */
+
+.food-name{
+    color: black;
+    font-size: 29px;
+    text-align: center;
+}
+
+.heading a {
+    color: white;
+}
+
+.food-name:hover{
+    color: blue;
+}
+
+.bara-food{
+text-align: center;
+}
+
+.about-bara1 {
+    width: 400px;
+    float: left;
+    margin-left: 150px;
+}
+
+.about-bara2{
+    width: 400px;
+    float: left;
+    margin-left: 10px;
+}
+
+.about-bara3{
+    width: 400px;
+    float: left;
+    margin-left: 10px;
+}
+
+.juju-food{
+    text-align: center;
+}
+
+.about-juju1 {
+    width: 400px;
+    float: left;
+    margin-left: 150px;
+}
+
+.about-juju2{
+    width: 400px;
+    float: left;
+    margin-left: 10px;
+}
+
+.about-juju3{
+    width: 400px;
+    float: left;
+    margin-left: 10px;
+}
+
+.khaja-food{
+    text-align: center;
+}
+
+.about-khajaset1 {
+    width: 400px;
+    float: left;
+    margin-left: 150px;
+}
+
+.about-khajaset2{
+    width: 400px;
+    float: left;
+    margin-left: 10px;
+}
+
+.about-khajaset3{
+    width: 400px;
+    float: left;
+    margin-left: 10px;
+}
+.footer{ 
+    color: white;
+    clear: both;
+    
+}
